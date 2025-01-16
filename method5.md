@@ -1,6 +1,5 @@
-# VBA-Codes
 
-Sub RemoveLastCharacter()
+
 
 Dim rng As Range
 Dim cell As Range
